@@ -16,7 +16,7 @@ const CounterTwo = () => {
           backgroundSize: "cover",
         }}
       >
-        <h1>Counter Day</h1>
+        <h1>Counter Smiles</h1>
         <h2>{value}</h2>
         <button
           className="btn-card-book"

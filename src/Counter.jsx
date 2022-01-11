@@ -25,7 +25,7 @@ const Counter = () => {
           backgroundSize: "cover",
         }}
       >
-        <h1>Counter Drink</h1>
+        <h1>Counter Great Days</h1>
         <h2>{counter}</h2>
         <button className="btn-card-book" type="button" onClick={btn}>
           button increase

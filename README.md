@@ -13,4 +13,4 @@
 
 - [Pavel Danilyuk](https://www.pexels.com/fr-fr/@pavel-danilyuk)
 
-[<img src="./src/img/counter-exercises.gif"/>]()
+[<img src="./src/img/counter-exercises.gif"/>](https://counter-exercises.netlify.app/)
