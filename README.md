@@ -1,4 +1,4 @@
-## [useState Exercises]()
+## [useState Exercises | Click events]()
 
 #### Recap exercises | React 2022 🍨
 
@@ -10,3 +10,7 @@
 - [Diana Polekhina](https://unsplash.com/@diana_pole)
 
 - [Trình Minh Thư](https://unsplash.com/@imdauphong)
+
+- [Pavel Danilyuk](https://www.pexels.com/fr-fr/@pavel-danilyuk)
+
+[<img src="./src/img/counter-exercises.gif"/>]()
