@@ -3,6 +3,7 @@ import React from "react";
 import Counter from "./Counter";
 import CounterTwo from "./CounterTwo";
 import ChangeImg from "./changeImg";
+import Slider from "./Slider";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <ChangeImg />
         <Counter />
         <CounterTwo />
+        <Slider />
       </div>
     </>
   );
